@@ -1,0 +1,50 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #000;
+    color: #fff;
+    overflow: hidden;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    background: url('../img/logopoli.png') no-repeat center center/cover;
+    height: 100vh;
+    align-items: center;
+    justify-content: center; /*Centra el contenido de la pagina html*/
+    text-align: center;  
+}
+
+.container2{
+    display: flex;
+    flex-direction: column;
+    background: url('../img/cia2.jpg') no-repeat center center/cover;
+    height: 100vh;
+    align-items: center;
+    justify-content: center; /*Centra el contenido de la pagina html*/
+    text-align: center;  
+}
+
+
+.bienvenido{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #000;
+}
+
+.in-log{
+    margin: 20px 20px;
+}
+
+.btn-login{
+    margin-left: 50px
+}
+
+.registro{
+    margin-top: 35px;
+    margin-left: 50px;
+}
+
+.preg{
+    background: #000;
+}

@@ -1,0 +1,143 @@
+.encabezado-google{
+    background-color: #f1f1f1;
+}
+
+.encabezado-google .logo{
+    height: 50px;
+    width: 130px;
+    margin-top: 20px; 
+    margin-left: 20px;
+}
+
+.encabezado-google .btn-primary{
+    margin-top: 25px;
+    margin-right: 50px;
+    float: right;
+}
+
+.woman-poli{
+    width: 100%; /*Ajusta la imagen al div!!!*/
+}
+
+h1{
+    text-align: center;
+    font-family: 'Open Sans', arial;
+    color: #555;
+    font-size: 38px;
+    font-weight: 300;
+    margin-top: 27px;
+    margin-bottom: 50px;
+}
+
+.container p{
+    text-align: center;
+    font-family: 'Open Sans', arial;
+    color: #737373;
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+
+.container .logo-strip{
+    margin-top: 20px;
+}
+
+.container .devices{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.container .formulario{
+    box-sizing: border-box;
+    border-radius: 0;
+    background-color: #f1f1f1;
+    width: 400px;
+    height: auto;
+    padding: 25px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+.container .side-info h2{
+    text-align: center;
+    font-family: 'Open Sans', Arial;
+    color: #737373;
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 15px;
+}
+
+.container .formulario .in{ 
+    width: 100%;
+}
+
+.container #txt-nombre{
+    width: 100%;
+}
+
+.container #txt-apellido{
+    margin-left: 0px;
+    margin-right: 5px;
+    width: 100%;
+}
+
+.container  label{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 13px;
+}
+
+.container #dia{
+    margin: 5px 5px;
+    border-radius: 0;
+    padding: 1px;
+    height: 35px;
+}
+
+.container #mes{
+    margin: 5px 5px;
+    border-radius: 0;
+    padding: 1px;
+    height: 35px;
+}
+
+.container #agno{
+    margin: 5px 5px;
+    border-radius: 0;
+    padding: 1px;
+    width: 95px;
+    height: 35px;
+}
+
+b, strong {
+    font-weight: bold !important;
+}
+
+.fl-r{
+    float: right;
+}
+
+#btn-sig-paso{
+    margin-top: 20px;   
+}
+
+.footer{
+    margin-top: 30px;
+}
+
+.footer a{
+    color: #000000;
+}
+
+.mr-15{
+    margin-right: 15px;
+}
+
+.txt-14{
+    font-size: 14px;
+}
+
+.mt-10{
+    margin-top: 10px !important;
+}
